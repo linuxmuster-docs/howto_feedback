@@ -1,2 +1,1 @@
-# installationsleitfaden
-Beispiel zur Dokumentation mit Sphinx
+# Dokumentation des Pakets linuxmuster-community-feedback
