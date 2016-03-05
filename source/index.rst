@@ -15,13 +15,14 @@ oder Einsatzort an das Projekt übermittelt werden.
 
 .. important:: 
       Eine Übermittlung der Statistiken ist für das Open Source Projekt "linuxmuster.net" sehr
-      wichtig, da es mitunter schwer ist, offizielle Entscheidern von der Zuverlässigkeit eines
+      wichtig, da es mitunter schwer ist, offizielle Entscheider von der Zuverlässigkeit eines
       "kostenlosen" Produkts zu überzeugen.
       
-      Ein wichtiges Argument ist hier stets auch, die 
+      Ein wichtiges Argument ist hier stets auch die 
       Verbreitung des Systems belegen zu können, damit man darlegen kann, dass es sich bei 
       linuxmuster.net nicht um ein "Nischenprodukt" handelt. In diesem Sinne sind zuverlässige
-      Zahlen sehr wichtig.
+      Zahlen ein Baustein für den Erfolg des Projekts - bitte helfen Sie mit.
+      
 
 
 Contents:
