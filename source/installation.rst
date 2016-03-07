@@ -32,6 +32,7 @@ linuxmuster.net übermittelt.
 
 
 Wenn Statistiken übermittelt werden sollen, wird zunächst erfragt, in welchem Umfeld die linuxmuster.net-Installation zum Einsatz kommt.
+
 .. image:: media/2.png
    :alt: Ist die Installation virtualisiert, wenn ja, wie?
    :align: center
