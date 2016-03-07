@@ -30,13 +30,13 @@ linuxmuster.net übermittelt.
    :alt: Sollen statistische Daten übermittelt werden oder nicht?
    :align: center
 
-Wenn Statsitsiken übermittelt werden sollen, wird zunächst erfragt, ob und wie die linuxmuster.net Umgebung virtualisiert ist.
 
+Wenn Statistiken übermittelt werden sollen, wird zunächst erfragt, in welchem Umfeld die linuxmuster.net-Installation zum Einsatz kommt.
 .. image:: media/2.png
    :alt: Ist die Installation virtualisiert, wenn ja, wie?
    :align: center
 
-Anschließend geben Sie bitte den Einsatzzweck Ihrer linuxmuster.net Installation an. Bitte geben Sie Testumgebungen nicht als produktive Systeme an.
+Anschließend geben Sie bitte an, ob und wie die Installation von linuxmuster.net virtualisiert ist.
 
 .. image:: media/3.png
    :alt: Einsatzzweck von linuxmuster.net?
@@ -151,6 +151,7 @@ Der folgende Screenshot zeigt den minimalen Datensatz, der als Feedback übertra
 * Einsatzzweck
 * Dienstleisterunterstützung
 
+
 Außerdem werden einmal je Woche die installierten Versionen der linuxmuster-Basispakete
 
 * linuxmuster-base
@@ -158,7 +159,7 @@ Außerdem werden einmal je Woche die installierten Versionen der linuxmuster-Bas
 * linuxmuster-schulkonsole
 * sophomorix2
 
-ermittelt und in der Statistikdatei aktualisiert.  
+und der Status der Einstellung "subnetting" ermittelt und in der Statistikdatei aktualisiert. 
 
 .. note:: Die id der Installation wird aus der Mac-Adresse, dem Schulnamen und der Domäne
    ermittelt und mit MD5 gehasht, so dass das System zwar für statistische Zwecke
