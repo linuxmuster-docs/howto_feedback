@@ -72,7 +72,7 @@ keine personenbezogenen Daten erhoben.
 
 Dürfen Informationen über Zahl und Art der eingesetzten Clients übermittelt werden? 
 Wenn Sie hier mit ``YES`` antworten, ermittelt das Feedback-Paket aus der Datei
-"workstations" die Anzahl der dort eingetragenen Clientcomputeri. Die Zahlen werden 
+"workstations" die Anzahl der dort eingetragenen Clientcomputer. Die Zahlen werden 
 getrennt aufgelistet, je nachdem ob ein Clientrechner von linuxmuster.net
 mit linbo, mit linbo und opsi mit opsi oder als IP-Host verwaltet wird. 
 
