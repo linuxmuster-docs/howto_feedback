@@ -34,6 +34,7 @@ Contents:
    rekonfiguration
    kommandozeile
    technik
+   faq
 
 
 
