@@ -20,8 +20,10 @@ Technisch wird dabei die Datei
 
 zum linuxmuster.net Server übertragen.
 
-Warum werden die Daten regelmäßig übermittelt?
-----------------------------------------------
+Stimmt es, dass die Daten regelmäßig übermittelt werden?
+--------------------------------------------------------
+
+Ja.
 
 Nach Aktivierung des Feedbacks wird auf dem System in der Datei
 ``/etc/cron.d/linuxmuster-community-feedback`` ein cronjob eingerichtet, der
@@ -34,6 +36,9 @@ zufällig ermittelt und variiert von System zu System.
    # Diese Datei wird automatisch erstellt.
    # Manuelle Aenderungen werden ueberschrieben!
    48 4 * * 6   root /usr/bin/linuxmuster-community-feedback -u > /dev/null 2>&1
+
+Warum werden die Daten regelmäßig übertragen?
+----------------------------------------------
 
 Die regelmäßige Übertragung hat zwei Gründe:
 
